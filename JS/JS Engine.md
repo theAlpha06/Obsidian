@@ -1,3 +1,6 @@
+---
+link: "[[setTimeout()]]"
+---
 
  > JS runtime environment is thought can be as a big container which has all the things to execute the JS code. Like JS Engine, APIs, event loop, callback queue, micro-task queue, etc.
  > Browser can only execute JS code because of the JS runtime environment it has, which is `V8` in case of chrome, Node.js, deno and `SpiderMonkey` in case of Firefox.
