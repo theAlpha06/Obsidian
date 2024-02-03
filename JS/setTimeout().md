@@ -1,3 +1,7 @@
+---
+link: "[[Higher Order Functions]]"
+---
+
 - setTimeout() might take more than given time, it all depends on the `call stack`.
 
 ```js

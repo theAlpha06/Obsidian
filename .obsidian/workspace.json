@@ -8,63 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "212ed45d99581128",
+            "id": "a0c938630a4a44b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbed80d01707b494",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/window and this.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e55e58a4a72ddce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scope.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c9193c400559e12",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "1e7f074024e55847",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Closures.md",
+                "file": "Higher Order Functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Higher Order Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Higher Order Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Higher Order Functions.md"
+              }
             }
           }
         ]
@@ -188,9 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c9193c400559e12",
+  "active": "a0c938630a4a44b2",
   "lastOpenFiles": [
     "Closures.md",
+    "Higher Order Functions.md",
+    "JS/setTimeout().md",
     "let and const.md",
     "Scope.md",
     "JS/window and this.md",
@@ -198,7 +159,6 @@
     "JS/Event Loop/Starved Event Loop.md",
     "JS/Event Loop/Event Loop.md",
     "v8.png",
-    "JS/setTimeout().md",
     "JS/Event Loop/Regular Event Loop.md",
     "JS/JS Engine.md",
     "JS/Event Loop",
