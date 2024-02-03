@@ -32,7 +32,7 @@ var z = x();
 
 - Module Design Patterns
 - Currying
-- Function like once
+- Function like once(function that runs once and never again)
 - Memoize
 - Maintaining state in async world
 - setTimeouts
