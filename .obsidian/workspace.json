@@ -4,18 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "fc33822d3d09caed",
+        "id": "179ae5b59276ba5d",
         "type": "tabs",
         "children": [
           {
-            "id": "2b6b396f9bc07bf2",
+            "id": "212ed45d99581128",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS/Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbed80d01707b494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS/window and this.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e55e58a4a72ddce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scope.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c9193c400559e12",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "1e7f074024e55847",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Closures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -65,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7ed629043e1d20ec",
@@ -138,20 +188,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b6b396f9bc07bf2",
+  "active": "4c9193c400559e12",
   "lastOpenFiles": [
-    "JS/setTimeout().md",
-    "JS/Event Loop/Event Loop.md",
-    "JS/Event Loop/Regular Event Loop.md",
+    "Closures.md",
+    "let and const.md",
+    "Scope.md",
+    "JS/window and this.md",
+    "JS/Functions.md",
     "JS/Event Loop/Starved Event Loop.md",
+    "JS/Event Loop/Event Loop.md",
+    "v8.png",
+    "JS/setTimeout().md",
+    "JS/Event Loop/Regular Event Loop.md",
     "JS/JS Engine.md",
     "JS/Event Loop",
-    "JS/Functions.md",
     "event_listener.png",
     "js_runtime.png",
     "Context API.md",
     "AST.png",
-    "v8.png",
     "2024-02-01.md",
     "print.css",
     "obsidian.css",
