@@ -18,9 +18,11 @@ function triple(x) {
 const output = arr.map(double);
 ```
 
-- ==map is used when you have an array of== ==_stuff_== ==( scientific term ) and you want to== ==_do something_== ==( another scientific term ) for every item in that array.==
+- <mark>map is used when you have an array of stuff( scientific term ) and you want to do something( another scientific term ) for every item in that array.</mark>
 
 ## `filter`
+
+- <mark>The `filter()` method creates a new array with all elements that pass the test implemented by the provided function.</mark>
 
 ```js
 //filter odd values

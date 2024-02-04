@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Higher Order Functions.md",
+                "file": "JS/map, filter and reduce.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,16 +23,11 @@
             "id": "3ffff73e2bd90245",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "map, filter and reduce.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "map, filter and reduce.md",
+                "file": "JS/map, filter and reduce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "map, filter and reduce.md",
+                "file": "JS/map, filter and reduce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "map, filter and reduce.md"
+                "file": "JS/map, filter and reduce.md"
               }
             }
           }
@@ -160,14 +155,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ffff73e2bd90245",
+  "active": "a0c938630a4a44b2",
   "lastOpenFiles": [
-    "Higher Order Functions.md",
-    "map, filter and reduce.md",
-    "Closures.md",
+    "JS/Higher Order Functions.md",
+    "JS/map, filter and reduce.md",
+    "JS/Closures.md",
     "JS/setTimeout().md",
-    "let and const.md",
-    "Scope.md",
+    "JS/let and const.md",
+    "JS/Scope.md",
     "JS/window and this.md",
     "JS/Functions.md",
     "JS/Event Loop/Starved Event Loop.md",
