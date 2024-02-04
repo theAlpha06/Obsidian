@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3ffff73e2bd90245",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "map, filter and reduce.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Higher Order Functions.md",
+                "file": "map, filter and reduce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Higher Order Functions.md",
+                "file": "map, filter and reduce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Higher Order Functions.md"
+                "file": "map, filter and reduce.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0c938630a4a44b2",
+  "active": "3ffff73e2bd90245",
   "lastOpenFiles": [
-    "Closures.md",
     "Higher Order Functions.md",
+    "map, filter and reduce.md",
+    "Closures.md",
     "JS/setTimeout().md",
     "let and const.md",
     "Scope.md",

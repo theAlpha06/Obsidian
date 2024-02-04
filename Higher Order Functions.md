@@ -1,3 +1,6 @@
+---
+link: "[[map, filter and reduce]]"
+---
 
 # Higher Order Functions
 
