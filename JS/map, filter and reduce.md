@@ -1,3 +1,7 @@
+---
+link: "[[Prototype and it's inheritance]]"
+---
+
 # `map`, `filter` and `reduce`
 
 > The `map()` method creates a new array with the results of calling a provided function on every element in the calling array.

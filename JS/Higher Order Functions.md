@@ -1,7 +1,6 @@
 ---
 link: "[[map, filter and reduce]]"
 ---
-
 # Higher Order Functions
 
 - A function which takes function as a parameter or return a function is called `higher order function`.
