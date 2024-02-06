@@ -1,3 +1,7 @@
+---
+link: "[[Callback Hell]]"
+---
+
 # Prototype
 
 - Inheritance is one object trying to access the methods and properties of other objects.
