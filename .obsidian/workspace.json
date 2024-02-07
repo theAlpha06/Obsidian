@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "179ae5b59276ba5d",
+        "id": "5898f9489d852b68",
         "type": "tabs",
         "children": [
           {
-            "id": "7d40c3047cbe368b",
+            "id": "aeb03dca03ddc7f6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "DSA/Subtraction_in_LL.pdf"
+                "file": "JS/Promises.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7ed629043e1d20ec",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Subtraction_in_LL.pdf",
+                "file": "JS/Promises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Subtraction_in_LL.pdf",
+                "file": "JS/Promises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Subtraction_in_LL.pdf"
+                "file": "JS/Promises.md"
               }
             }
           }
@@ -144,8 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d40c3047cbe368b",
+  "active": "aeb03dca03ddc7f6",
   "lastOpenFiles": [
+    "JS/Callback Hell.md",
+    "JS/Promises.md",
+    "DSA/Subtraction_in_LL.pdf",
     "DSA/Rose_Garden.pdf",
     "DSA/Reverse_LL_in_K_Groups.pdf",
     "DSA/Median_of_2_sorted_arrays.pdf",
@@ -154,7 +160,6 @@
     "DSA/Kth_element_of_two_sorted_arrays.pdf",
     "DSA/Koko_eating_bananas.pdf",
     "DSA/Insert_in_sorted_CLL.pdf",
-    "JS/Callback Hell.md",
     "JS/Prototype and it's inheritance.md",
     "image.png",
     "JS/Higher Order Functions.md",
@@ -177,8 +182,6 @@
     "Context API.md",
     "AST.png",
     "2024-02-01.md",
-    "print.css",
-    "obsidian.css",
     "print.css.md",
     "obsidian.css.md",
     "Pasted image 20240117014448.png",

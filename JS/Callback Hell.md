@@ -1,3 +1,7 @@
+---
+link: "[[Promises]]"
+---
+
 - Use of callback in asynchronous behaviour
 
 ```js
