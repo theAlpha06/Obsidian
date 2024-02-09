@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aeb03dca03ddc7f6",
+            "id": "614fd7181532365c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Promises.md",
+                "file": "Async & await.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/Promises.md",
+                "file": "Async & await.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/Promises.md",
+                "file": "Async & await.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/Promises.md"
+                "file": "Async & await.md"
               }
             }
           }
@@ -147,10 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aeb03dca03ddc7f6",
+  "active": "614fd7181532365c",
   "lastOpenFiles": [
-    "JS/Callback Hell.md",
     "JS/Promises.md",
+    "Async & await.md",
+    "JS/Callback Hell.md",
     "DSA/Subtraction_in_LL.pdf",
     "DSA/Rose_Garden.pdf",
     "DSA/Reverse_LL_in_K_Groups.pdf",

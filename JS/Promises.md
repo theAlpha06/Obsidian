@@ -1,3 +1,7 @@
+---
+link: "[[Async & await]]"
+---
+
 <mark>Promise is a placeholder which will be filled later with a value. In other words, it's a container for future value. Moreover, <span style="background-color: red;color: white">Promise is an object representing the eventual completion or failure of an asynchronous operation.</span></mark>
 - Promises are used to handle async operations in javascript.
 - Promise objects are immutable, if it's resolved.
