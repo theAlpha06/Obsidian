@@ -4,15 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "5898f9489d852b68",
+        "id": "22bb4a3068b73955",
         "type": "tabs",
         "children": [
           {
-            "id": "614fd7181532365c",
+            "id": "557651a66d045cca",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JS/this.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0efd47d1f4acb6d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS/this.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7ed629043e1d20ec",
@@ -82,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JS/this.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JS/this.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,14 +136,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JS/this.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -139,11 +158,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "614fd7181532365c",
+  "active": "557651a66d045cca",
   "lastOpenFiles": [
-    "Async & await.md",
-    "JS/Promises.md",
+    "JS/Functions.md",
+    "JS/Closures.md",
     "JS/Callback Hell.md",
+    "JS/Async & await.md",
+    "JS/this.md",
+    "JS/Promise APIs.md",
+    "JS/Promises.md",
     "DSA/Subtraction_in_LL.pdf",
     "DSA/Rose_Garden.pdf",
     "DSA/Reverse_LL_in_K_Groups.pdf",
@@ -160,11 +183,9 @@
     "Pasted image 20240205162913.png",
     "JS/setTimeout().md",
     "JS/JS Engine.md",
-    "JS/Closures.md",
     "JS/let and const.md",
     "JS/Scope.md",
     "JS/window and this.md",
-    "JS/Functions.md",
     "JS/Event Loop/Starved Event Loop.md",
     "JS/Event Loop/Event Loop.md",
     "v8.png",
@@ -182,8 +203,6 @@
     "Untitled 1.md",
     "Daily Drive.md",
     "aksdjf.md",
-    "Yellow Paper.md",
-    "Untitled.canvas",
-    "create a link.md"
+    "Untitled.canvas"
   ]
 }
