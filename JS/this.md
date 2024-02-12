@@ -1,3 +1,7 @@
+---
+link: "[[call, apply and bind]]"
+---
+
 # `this`
 
 ```js
