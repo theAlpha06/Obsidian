@@ -1,2 +1,4 @@
 
-![[Pasted image 20240213200538.png]]
+![[async_defer.png]]
+
+<img src="../async_defer.png" />
