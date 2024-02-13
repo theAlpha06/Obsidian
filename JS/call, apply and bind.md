@@ -1,3 +1,6 @@
+---
+link: "[[async and defer]]"
+---
 
 # `call()`
 
