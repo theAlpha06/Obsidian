@@ -22,8 +22,7 @@ let object = {
 > We can access that hidden object using `Array.prototype` for arrays.
 
 
-
-![[image.png]]
+<img src="../image.png" />
 
 ```js
 arr.__proto__ = Array.prototype
