@@ -16,7 +16,7 @@ link: "[[setTimeout()]]"
 	- Parsing 
 		- The code is broken down into tokens.
 		- Syntax parser takes the code and convert it to AST(abstract syntax tree).
-		<img src="../AST.png" width="1100px" height="600px"/>
+		<img src="../AST.png"/>
 		- This AST is then passed to compilation stage.
 		
 	- Compilation
