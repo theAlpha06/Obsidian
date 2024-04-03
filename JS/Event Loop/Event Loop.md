@@ -4,7 +4,7 @@ link: "[[Regular Event Loop]]"
 -  If you give `Call Stack` a code and say it to execute it after 5 seconds later, it can't do that. Because, `call stack` doesn't have timer.
 - Browsers provides us with a lot of features like location service, timer, local storage, etc. Now, if the `Call Stack` which resides in `JS Engine` needs to use it, then it is done using the `Web APIs`.
 
-![[js_runtime.png]]
+<img src="../../js_runtime.png" />
 
 > All these `Web APIs`, are not a part of `Javascript`, they are actually browsers power. We get all these access into `call stack` using the global object `window`, e.g. `window.setTimeout()`, we can access it also using `setTimeout()` because `window` is in global scope.
 
