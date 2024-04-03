@@ -36,5 +36,7 @@ Promise.race([p1, p2, p3]);
 > Whenever, the promise is resolved only then the result will be returned.
 > If all of the promise is failed, then an `AggregateError` is thrown, which contains all the errors.
 
+> Note: `Promise.any()` returns the first resolved promise while `Promise.race()` returns the first settled promise.
+
 > When we say that a promise is `settled` this means it's either `resolved` or `rejected`.
 
