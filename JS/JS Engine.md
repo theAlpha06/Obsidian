@@ -16,7 +16,7 @@ link: "[[setTimeout()]]"
 	- Parsing 
 		- The code is broken down into tokens.
 		- Syntax parser takes the code and convert it to AST(abstract syntax tree).
-		- ![[AST.png]]
+		<img src="../AST.png" width="1100px" height="600px"/>
 		- This AST is then passed to compilation stage.
 		
 	- Compilation
@@ -42,4 +42,15 @@ link: "[[setTimeout()]]"
 
 > V8 has interpreter called `Ignition` and optimising compiler called `TurboFan` and garbage collector `Orinoco` and `Oilpan`.
 
-![[v8.png]]
+<img src="../v8.png" />
+
+### Just In Time(JIT) compiler
+
+- To get rid of the interpreter’s inefficiency, “the interpreter keeps retranslating the same code every time it goes through the loop”. 
+- In the JIT compiler, we have a new component called a monitor (aka a profiler). That monitor watches the code as it runs and
+- Identify the hot or warm components of the code eg: repetitive code.
+- Transform those components into machine code during run time.
+- Optimize the generated machine code.
+- Hot swap the previous implementation of the code.
+
+<img src="../JIT.webp" />
